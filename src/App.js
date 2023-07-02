@@ -5,7 +5,11 @@ function App() {
   return (
     <div>
       <ClickCounter />
-      <HoverCounter />  
+      <HoverCounter />
+      <p>Master</p>
+      <p>hoc1</p>
+      <p>hoc2</p>
+    
     </div>
   )
 }
